@@ -1,1 +1,1 @@
-# plg_system_dynamicTitle
+# plg_system_dynamictitle
